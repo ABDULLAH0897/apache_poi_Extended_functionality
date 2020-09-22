@@ -1,4 +1,4 @@
-![](https://github.com/ABDULLAH0897/BET/workflows/Build_project/badge.svg)
+![](https://github.com/ABDULLAH0897/BET/workflows/Build_and_Test/badge.svg)
 # Apache POI Extended Functionality
 
 ### README is comming soon... :)
