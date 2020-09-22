@@ -23,4 +23,4 @@ jobs:
         with:
           args: "--skip-sorting-imports --replace"
           # Recommended if you use MacOS:
-          githubToken: ${{ 3539a21e50a8f7a7a53f608a82385c455da3ce45 }}
+          githubToken: ${{ secrets.Java_Style }}
